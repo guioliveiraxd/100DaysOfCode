@@ -31,7 +31,7 @@ Makefile
 .DS_Store
 Thumbs.db
 
-# Visual Studio Code (caso use junto)
+# Visual Studio Code
 .vscode/
 
 # Arquivos de backup
