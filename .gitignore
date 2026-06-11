@@ -1,0 +1,39 @@
+# CLion / IntelliJ
+.idea/
+
+# CMake
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Makefile
+
+# Arquivos compilados
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.a
+*.lib
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code (caso use junto)
+.vscode/
+
+# Arquivos de backup
+*~
+*.swp
