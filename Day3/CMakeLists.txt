@@ -3,4 +3,4 @@ project(100DaysOfCode C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Day3 controle_producao.c)
+add_executable(Day3 controle_producao.c, par_impar.c)
