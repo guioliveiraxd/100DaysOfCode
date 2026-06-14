@@ -1,6 +1,5 @@
-cmake_minimum_required(VERSION 3.30)
-project(100DaysOfCode C)
-
-set(CMAKE_C_STANDARD 11)
-
-add_executable(Day5 exercicios_for.c)
+add_executable(exerc1 exerc1.c)
+add_executable(exerc2 exerc2.c)
+add_executable(exerc3 exerc3.c)
+add_executable(exerc4 exerc4.c)
+add_executable(exerc5 exerc5.c)
