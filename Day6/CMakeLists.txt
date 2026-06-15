@@ -1,0 +1,5 @@
+add_executable(exampleFor1.c)
+add_executable(exampleFor2.c)
+add_executable(exampleFor3.c)
+add_executable(exampleFor4.c)
+add_executable(exampleFor5.c)
