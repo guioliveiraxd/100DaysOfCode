@@ -1,9 +1,20 @@
 #include <stdio.h>
 int main() {
-    int N, quantidadePar, quantidadeImpar;
+    int qntd_a_repetir, numerosDigitados, pares;
 
-    printf("Digite: ");
-    scanf("%d", &N);
+    printf("Digite quantos numeros serao digitados: \n");
+    scanf("%d", &qntd_a_repetir);
 
-    for (int i = 0; i );
+    pares = 0;
+
+    for (int i = 0; i < qntd_a_repetir; i++) {
+        printf("Digite um numero: \n");
+        scanf("%d", &numerosDigitados);
+
+        if (numerosDigitados % 2 == 0) {
+            pares++;
+        }
+    }
+    printf("Quantidade de pares = %d\n", pares);
+    return 0;
 }
