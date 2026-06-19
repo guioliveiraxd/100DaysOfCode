@@ -1,1 +1,1 @@
-add_executable(day10.c)
+add_executable(day10.c, maior_numero.c)
