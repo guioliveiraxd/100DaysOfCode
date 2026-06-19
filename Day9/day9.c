@@ -26,3 +26,29 @@ Digite um numero: 50
 Parabéns, você acertou!
 Tentativas: 4
 */
+#include <stdio.h>
+
+int main() {
+   int numero;
+   int tentativas = 0;
+
+   do {
+      printf("Digite um numero: ");
+      scanf("%d", &numero);
+
+      tentativas++;
+
+      if (numero > 50) {
+         printf("Muito alto!\n");
+      }
+
+      if (numero < 50) {
+         printf("Muito baixo!\n");
+      }
+   } while (numero != 50);
+
+   printf("Parabens, voce acertou!\n");
+   printf("Tentativas: %d\n", tentativas);
+
+   return 0;
+}
