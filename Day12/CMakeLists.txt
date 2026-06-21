@@ -1,0 +1,1 @@
+add_executable(meta_economia.c)
