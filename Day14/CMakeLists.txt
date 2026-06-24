@@ -1,1 +1,1 @@
-add_executable(day14.c)
+add_executable(exemplo_for_matriz.c)
