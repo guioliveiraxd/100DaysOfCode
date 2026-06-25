@@ -1,0 +1,1 @@
+add_executable(desafio_cedulas.c)
