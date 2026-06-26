@@ -1,1 +1,1 @@
-add_executable(day16.c)
+add_executable(adivinha_cmenu.c)
