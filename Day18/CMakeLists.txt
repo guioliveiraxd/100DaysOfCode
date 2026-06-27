@@ -1,1 +1,1 @@
-add_executable(day18.c)
+add_executable(tabela_multiplicacao.c)
