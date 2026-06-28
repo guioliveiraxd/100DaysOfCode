@@ -14,7 +14,7 @@ int main() {
             positivos++;
         }
     }
-    printf("%d valores positivos\n", positivos);
+    printf("%d valores positivoss\n", positivos);
 
     if(positivos > 0)
         printf("%.1f\n", soma / positivos);
