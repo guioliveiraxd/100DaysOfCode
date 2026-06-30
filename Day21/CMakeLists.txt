@@ -1,1 +1,1 @@
-add_executable(day21.c)
+add_executable(day21.c, numero_perfeito.c)
