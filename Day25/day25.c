@@ -98,7 +98,6 @@ int main() {
 
     printf("Quantidade de adicionais: %d\n", quantidade);
     printf("Valor total: R$ %.2lf\n", total);
-
     printf("\nObrigado pela preferencia!\n");
 
     return 0;
