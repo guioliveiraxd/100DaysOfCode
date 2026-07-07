@@ -2,7 +2,6 @@
 // Simulado fatec maratona2025 / Exercício: triangulo
 //
 #include <stdio.h>
-#include <math.h>
 #define PI 3.14159265358979323846
 int main() {
 
