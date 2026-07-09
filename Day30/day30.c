@@ -1,11 +1,12 @@
 //
-//  Leetcoded - Problema - Segunda Maior Nota
+//  Leetcode - Problema - Segunda Maior Nota
 //
 #include <stdio.h>
 
 int main() {
 
     int N;
+    printf("Digite: ");
     scanf("%d", &N);
 
     int nota;
@@ -32,7 +33,7 @@ int main() {
     if (segundoMaior == -1) {
         printf("NAO EXISTE SEGUNDA MAIOR\n");
     } else {
-        printf("%d\n", segundoMaior);
+        printf("o segundo maior eh: %d\n", segundoMaior);
     }
 
     return 0;
