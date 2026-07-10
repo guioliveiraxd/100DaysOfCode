@@ -14,7 +14,7 @@ int main() {
 
     while (1) {
 
-        printf("\n===== PEDRA PAPEL TESOURA =====\n");
+        printf("\nPEDRA PAPEL TESOURA\n");
         printf("1 - Pedra\n");
         printf("2 - Papel\n");
         printf("3 - Tesoura\n");
@@ -78,9 +78,9 @@ int main() {
 
     }
 
-    printf("\n====================\n");
+
     printf("RESULTADO FINAL\n");
-    printf("====================\n");
+    printf("\n");
     printf("Vitorias: %d\n", vitorias);
     printf("Derrotas: %d\n", derrotas);
     printf("Empates: %d\n", empates);
