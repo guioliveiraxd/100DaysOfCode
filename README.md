@@ -66,7 +66,7 @@ Ao final dos 100 dias espero:
 
 ## Status
 
-Início: Dia 31/100
+Início: Dia 32/100
 
 Em andamento
 
