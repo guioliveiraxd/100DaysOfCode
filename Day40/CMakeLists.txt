@@ -1,0 +1,1 @@
+add_executable(reserva_hotel.c)
