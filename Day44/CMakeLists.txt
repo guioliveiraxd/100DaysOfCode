@@ -1,0 +1,1 @@
+add_executable(corrida_simulador.c)
