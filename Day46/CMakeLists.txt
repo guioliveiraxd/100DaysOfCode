@@ -1,0 +1,1 @@
+add_executable(day46.c)
