@@ -1,0 +1,1 @@
+add_executable(conta_struct.c)
