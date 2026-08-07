@@ -47,6 +47,7 @@ Justamente por isso, acredito que consistência vale mais do que intensidade esp
 
 * C
 * Python
+* Java
 * Git
 * GitHub
 
