@@ -30,7 +30,6 @@ void sacar(struct Conta *conta, float valor) {
         printf("\nSaldo insuficiente.\n");
 
     }
-
 }
 
 void mostrarConta(struct Conta conta) {
