@@ -1,1 +1,1 @@
-add_executable(calculo_imc.c, varredura_vetor.c)
+add_executable(calculo_imc.c varredura_vetor.c)
