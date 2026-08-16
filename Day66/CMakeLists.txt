@@ -1,1 +1,1 @@
-add_subdirectory(dado.c)
+add_executable(dado.c)
