@@ -1,1 +1,1 @@
-add_executable(Day3 controle_producao.c, par_impar.c)
+add_executable(Day3 controle_producao.c par_impar.c)

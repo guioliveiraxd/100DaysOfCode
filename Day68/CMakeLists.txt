@@ -1,0 +1,1 @@
+add_executable(selection_sort.c)

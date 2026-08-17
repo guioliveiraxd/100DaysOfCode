@@ -1,5 +1,1 @@
-add_executable(exerc1 exerc1.c)
-add_executable(exerc2 exerc2.c)
-add_executable(exerc3 exerc3.c)
-add_executable(exerc4 exerc4.c)
-add_executable(exerc5 exerc5.c)
+add_executable(exerc1.c exerc2.c)
