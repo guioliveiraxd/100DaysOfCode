@@ -71,6 +71,7 @@ add_subdirectory(Day65)
 add_subdirectory(Day66)
 add_subdirectory(Day67)
 add_subdirectory(Day68)
+add_subdirectory(Day69)
 
 
 

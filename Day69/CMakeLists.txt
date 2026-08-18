@@ -1,0 +1,1 @@
+add_executable(validar_cpf.c)
