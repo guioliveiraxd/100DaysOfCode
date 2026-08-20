@@ -1,0 +1,1 @@
+add_executable(inverter_array.c)
