@@ -1,0 +1,1 @@
+add_executable(pa_aula04.c)
