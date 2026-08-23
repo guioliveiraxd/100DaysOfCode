@@ -1,0 +1,1 @@
+add_executable(day74.c conversao.c)
