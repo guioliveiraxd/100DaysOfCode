@@ -94,6 +94,7 @@ add_subdirectory(Day88)
 add_subdirectory(Day89)
 add_subdirectory(Day90)
 add_subdirectory(Day91)
+add_subdirectory(Day92)
 
 
 
