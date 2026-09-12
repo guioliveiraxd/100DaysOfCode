@@ -1,0 +1,1 @@
+add_executable(soma_matriz.c)
