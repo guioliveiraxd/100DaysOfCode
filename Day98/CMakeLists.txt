@@ -1,1 +1,0 @@
-add_executable(day98.c)
