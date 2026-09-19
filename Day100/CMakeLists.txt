@@ -1,0 +1,1 @@
+add_executable(jogo_forca.c)

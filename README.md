@@ -67,8 +67,8 @@ Ao final dos 100 dias espero:
 
 ## Status
 
-Início: Dia 99/100
+Fim: Dia 18/09/2026
 
-Em andamento
+Concluído!
 
 "Porque querer, tentar e decidir são coisas diferentes."
